@@ -1,8 +1,0 @@
-@supabase/supabase-js
-@tanstack/react-query
-react
-react-dom
-react-router-dom
-typescript
-tailwindcss
-vite
