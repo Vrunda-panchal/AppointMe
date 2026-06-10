@@ -71,10 +71,14 @@ AppointMe is a full-stack appointment scheduling platform that allows users to b
 - AI-Based Recommendations
 - Multi-language Support
 
+## Output
+
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/f0553cb9-ac34-45cf-a020-c42fe9360bbb" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d2e4e9f1-8da0-4612-8ab5-240d19134c8e" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/47cf0e1f-fae4-4f24-b2e4-84a17c60e75a" />
+
 ## Authors
 
 - Vrunda Panchal
-
 ---
-
 Developed as a Design Engineering II-B Project (Semester 6).
