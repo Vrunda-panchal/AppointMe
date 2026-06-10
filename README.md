@@ -77,7 +77,7 @@ AppointMe is a full-stack appointment scheduling platform that allows users to b
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d2e4e9f1-8da0-4612-8ab5-240d19134c8e" />
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/47cf0e1f-fae4-4f24-b2e4-84a17c60e75a" />
 
-## Authors
+## Author
 
 - Vrunda Panchal
 ---
